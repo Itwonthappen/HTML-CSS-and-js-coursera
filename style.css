@@ -52,17 +52,17 @@ h1 {
 }
 
 .name1{
-  background-color: #FFB7C1;
+  background-color: #FFB6C1;
 }
 
-
-.name3{
-  background-color: #FFFF00;
-}
 .name2{
   color: white;
   background-color: #FF0000;
 }
+.name3{
+  background-color: #FFFF00;
+}
+
 @media (min-width: 992px) {
   .col-lg-4 {
   	float: left;
